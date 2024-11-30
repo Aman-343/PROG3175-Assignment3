@@ -135,7 +135,7 @@ app.post('/greet', async (req, res) => {
 app.listen(PORT, () => {
   console.log(`Server running at http://localhost:${PORT}`);
 });
-
+module.exports = app;
 // const express = require('express');
 //DATABASE_URL="postgres://postgres.usxltdstcjrgdkuhflth:DBMSforAssignment3@aws-0-ca-central-1.pooler.supabase.com:6543/postgres"
 // const sqlite = require('sqlite');
