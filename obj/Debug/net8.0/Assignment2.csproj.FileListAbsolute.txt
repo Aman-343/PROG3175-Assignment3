@@ -1,0 +1,15 @@
+C:\Users\amans\OneDrive\Documents\PROG3175\Assignment2\bin\Debug\net8.0\Assignment2.exe
+C:\Users\amans\OneDrive\Documents\PROG3175\Assignment2\bin\Debug\net8.0\Assignment2.deps.json
+C:\Users\amans\OneDrive\Documents\PROG3175\Assignment2\bin\Debug\net8.0\Assignment2.runtimeconfig.json
+C:\Users\amans\OneDrive\Documents\PROG3175\Assignment2\bin\Debug\net8.0\Assignment2.dll
+C:\Users\amans\OneDrive\Documents\PROG3175\Assignment2\bin\Debug\net8.0\Assignment2.pdb
+C:\Users\amans\OneDrive\Documents\PROG3175\Assignment2\obj\Debug\net8.0\Assignment2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\amans\OneDrive\Documents\PROG3175\Assignment2\obj\Debug\net8.0\Assignment2.AssemblyInfoInputs.cache
+C:\Users\amans\OneDrive\Documents\PROG3175\Assignment2\obj\Debug\net8.0\Assignment2.AssemblyInfo.cs
+C:\Users\amans\OneDrive\Documents\PROG3175\Assignment2\obj\Debug\net8.0\Assignment2.csproj.CoreCompileInputs.cache
+C:\Users\amans\OneDrive\Documents\PROG3175\Assignment2\obj\Debug\net8.0\Assignment2.sourcelink.json
+C:\Users\amans\OneDrive\Documents\PROG3175\Assignment2\obj\Debug\net8.0\Assignment2.dll
+C:\Users\amans\OneDrive\Documents\PROG3175\Assignment2\obj\Debug\net8.0\refint\Assignment2.dll
+C:\Users\amans\OneDrive\Documents\PROG3175\Assignment2\obj\Debug\net8.0\Assignment2.pdb
+C:\Users\amans\OneDrive\Documents\PROG3175\Assignment2\obj\Debug\net8.0\Assignment2.genruntimeconfig.cache
+C:\Users\amans\OneDrive\Documents\PROG3175\Assignment2\obj\Debug\net8.0\ref\Assignment2.dll
